@@ -54,4 +54,5 @@ Plano de Desenvolvimento Individual para o segundo semestre de 2022
 - [ ] Six faces of globalization
 - [ ] Noises - Ruidos
 - [ ] A era do capitalismo vigilante
+- [ ] https://github.com/JeanLLopes/pdi-second-half-2022
 
