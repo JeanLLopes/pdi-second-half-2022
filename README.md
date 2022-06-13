@@ -55,4 +55,5 @@ Plano de Desenvolvimento Individual para o segundo semestre de 2022
 - [ ] Noises - Ruidos
 - [ ] A era do capitalismo vigilante
 - [ ] https://staffeng.com/book
+- [ ] The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 
