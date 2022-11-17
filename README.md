@@ -43,7 +43,7 @@ Plano de Desenvolvimento Individual para o segundo semestre de 2022
 - [ ] [CEH Certified Ethical Hacker All-in-One Exam Guide](https://lnkd.in/gdEGKq9s)
 - [ ] [Infrastructure as Code: Managing Servers in the Cloud](https://lnkd.in/gExH8i-6)
 - [ ] [Don't Feed the Monkey Mind: How to Stop the Cycle of Anxiety, Fear, and Worry](https://lnkd.in/guxq_qbp)
-- [ ] [API Strategy for Open Banking: Insights and case studies from leading open banking experts and API strategists](https://lnkd.in/gZ3XPDgY)
+- [x] [API Strategy for Open Banking: Insights and case studies from leading open banking experts and API strategists](https://lnkd.in/gZ3XPDgY)
 - [ ] [A Guide to the Good Life: The Ancient Art of Stoic Joy](https://lnkd.in/gwjjiKMF)
 - [ ] [HBR's 10 Must Reads on Platforms and Ecosystems](https://lnkd.in/g-cb545G)
 - [ ] [Managing data orchestration and integration at scale](https://lnkd.in/gBfkg_ra)
