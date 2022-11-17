@@ -5,8 +5,8 @@ Plano de Desenvolvimento Individual para o segundo semestre de 2022
 ## ROADMAP BACKEND:
 - [ROADMAP](https://roadmap.sh/backend)
   -   **DataBases**
-      - [ ] Document MongoDB, CouchDB
-      - [ ] Column DBs Cassandra
+      - [x] Document MongoDB, CouchDB
+      - [x] Column DBs Cassandra
       - [ ] Time series InfluxDB, TimescaleDB
       - [ ] Realtime databases
 
@@ -52,8 +52,8 @@ Plano de Desenvolvimento Individual para o segundo semestre de 2022
 - [ ] [O preço é o Lucro, de Peter Hill]()
 - [ ] [A era do Capitalismo de Vigilância, de Shoshana Zuboff]()
 - [ ] [Six faces of globalization]()
-- [ ] [Noises - Ruidos]()
-- [ ] [A era do capitalismo vigilante]()
+- [x] [Noises - Ruidos]()
+- [x] [A era do capitalismo vigilante]()
 - [ ] [Staffeng](https://staffeng.com/book)
 - [ ] [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change]()
 
